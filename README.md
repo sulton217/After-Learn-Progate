@@ -1,2 +1,2 @@
-# After-Learn-Progate
-Code di Buat setelah  menyelsaikan progate week 1 ( html and css 1-3 and flexbox) 
+# After-Learn-HtmlAndCss
+Code di repository ini berisikan code yang saya buat setelah melalui pelatihan di Progate.com bagian html and css 1-3 and flexbox

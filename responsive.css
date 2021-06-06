@@ -12,10 +12,18 @@
     .heading h2 {
       font-size: 20px;
     }
+    .container span{
+      display:none;
+  }
+  
   }
   
   /* Untuk Smartphone */
   @media all and (max-width: 670px) {
+    .container span{
+      display:block;
+  }
+
     .lesson {
       width: 100%;
     }

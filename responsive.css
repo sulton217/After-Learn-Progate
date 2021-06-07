@@ -12,7 +12,7 @@
     .heading h2 {
       font-size: 20px;
     }
-    .container span{
+    .container span.fa{
       display:none;
   }
   
@@ -20,7 +20,7 @@
   
   /* Untuk Smartphone */
   @media all and (max-width: 670px) {
-    .container span{
+    .container span.fa{
       display:block;
   }
 
